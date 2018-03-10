@@ -5,3 +5,4 @@ fired = false;
 t_lightshot_fade = 5;
 alpha = 1;
 alarm_set(0, t_lightshot_fade);
+audio_play_sound(sfx_laser_fire, 0, false);

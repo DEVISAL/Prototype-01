@@ -7,7 +7,7 @@ Un juego de naves básico.
 ## Sonido
 
 **Música**  
-Space Boss Battle Theme  
+Space Boss Battle Theme
 [Matthew Pablo](https://opengameart.org/users/matthew-pablo)
 
 **Hero Inmortal**  
@@ -16,8 +16,19 @@ Space Boss Battle Theme
 **SFXs**  
 [Little Robot Sound Factory](http://www.littlerobotsoundfactory.com/)
 
-## Arte
-**Characters** (Space Captain)  
+## Imágen
+
+**Fuentes**  
+
+Dangerbot  
+[Iconian Fonts - Daniel Zadorozny](http://www.iconian.com/)
+
+Nasalization  
+[Typodermic Fonts](typodermicfonts.com)
+
+
+**Personajes**  
+(Space Captain)  
 [Justin Nichol](https://opengameart.org/users/justin-nichol)
 
 

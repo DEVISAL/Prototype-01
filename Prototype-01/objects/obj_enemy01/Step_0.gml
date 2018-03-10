@@ -1,3 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
-draw_self();
+if (y > room_height){
+	instance_destroy();
+}
+y = y + (speed_v);
+
