@@ -16,10 +16,11 @@ if (firePressed){
 	switch (selectedOption) {
 	    case MenuOptions.START:
 	        // code here
-			room_goto(1);
+			room_goto(rm_level01);
 	        break;
 		case MenuOptions.CREDITS:
 	        // code here
+			room_goto(rm_credits);
 	        break;
 	    default: // MenuOptions.EXIT:
 	        game_end();
