@@ -7,13 +7,15 @@ Un juego de naves básico.
 ## Sonido
 
 **Música**  
-Space Boss Battle Theme
-[Matthew Pablo](https://opengameart.org/users/matthew-pablo)
 
-**Hero Inmortal**  
+Intro: Constellation  
+Stage music: Deus Ex Tempus  
 [Trevor Lentz](http://www.soundcloud.com/trevor-d-lentz)
 
-**SFXs**  
+Credits: Get Ready!  
+[Dante Costilla](https://soundcloud.com/costilladante)
+
+SFXs  
 [Little Robot Sound Factory](http://www.littlerobotsoundfactory.com/)
 
 ## Imágen
@@ -27,15 +29,9 @@ Nasalization
 [Typodermic Fonts](typodermicfonts.com)
 
 
-**Personajes**  
-(Space Captain)  
-[Justin Nichol](https://opengameart.org/users/justin-nichol)
-
-
-**Space ships**  
+Space ships  
 - [Tatermand](https://opengameart.org/users/tatermand)
 - [Skorpio](https://opengameart.org/users/skorpio)
 
-**Background**  
-- [LuminousDragonGames](https://opengameart.org/users/luminousdragongames)
-- [Westbeam](https://opengameart.org/users/westbeam)
+Background  
+[LuminousDragonGames](https://opengameart.org/users/luminousdragongames)
