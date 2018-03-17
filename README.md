@@ -1,6 +1,6 @@
 # Prototype-01
-Un juego de naves básico.
-
+Un juego de naves básico.  
+[Descargar el ejecutable](https://www.dropbox.com/s/nn65zuu3jwxj532/Prototype-01_alpha.exe?dl=0)
 
 # Créditos
 
